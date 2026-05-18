@@ -13,10 +13,6 @@ building at the intersection of language models and finance
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josh-pearlson)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://joshpearlson.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge)](https://joshpearlson.com)
 
-i occasionally write [here](https://joshpearlson.com/articles/)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcpearlson&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true)
+i occasionally write [![here](https://img.shields.io/badge/here-555?style=flat-square&logo=rss&logoColor=white)](https://joshpearlson.com/articles/)
